@@ -3,7 +3,40 @@
     <div class="py-5 container">
       <h3 class="font-weight-bold">Liste des utilisateurs</h3>
       <div>
-        <b-table striped hover :items="items" :fields="fields"></b-table>
+ <table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Login</th>
+      <th scope="col">Firstname</th>
+      <th scope="col">Lastname</th>
+       <th scope="col">Sexe</th>
+        <th scope="col">Phone</th>
+         <th scope="col">Email</th>
+          <th scope="col">Rôle</th>
+           <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Mark</td>
+      <td>Otto</td>
+      <td>@mdo</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td colspan="2">Larry the Bird</td>
+      <td>@twitter</td>
+    </tr>
+  </tbody>
+</table>
       </div>
     </div>
   </div>
@@ -26,8 +59,8 @@ export default {
       items: [
         {
           isActive: true,
-          login: "Momo",
-          first_name: "Dickerson",
+          login: '',
+          first_name: "",
           last_name: "Macdonald",
           Sexe: "Masculin",
           Phone: "61000254",
@@ -36,11 +69,7 @@ export default {
           Status: "onLine",
                 
         },
-        { isActive: false, login: "Cokou", first_name: "Larsen", last_name: "Shaw", Sexe: "M", Phone: "51285547", Email: "Shwcokou@gmail.com", Rôle: "Superviseur", Status: "onLine" },
-        { isActive: false, login: "Geneva", first_name: "Wilson", last_name: "Sowo", Sexe: "F", Phone: "51285557", Email: "Sowowilson@gmail.com", Rôle: "Superviseur", Status: "onLine" },
-        { isActive: false, login: "Cokou", first_name: "Waren", last_name: "Hans", Sexe: "M", Phone: "51285547", Email: "Momo@gmail.com", Rôle: "Agent", Status: "offLine" },
-        { isActive: false, login: "Cokou", first_name: "Lilia", last_name: "Mojito", Sexe: "F", Phone: "51285547", Email: "Mac@gmail.com", Rôle: "Superviseur", Status: "offLine" },
-        { isActive: false, login: "Cokou", first_name: "Loren", last_name: "Shay", Sexe: "M", Phone: "51285547", Email: "Wilson@gmail.com", Rôle: "Superviseur", Status: "onLine" },
+        
        
       ],
     };

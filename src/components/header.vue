@@ -10,8 +10,8 @@
             <img src="@/styles/theme/img/7.png" alt="" />
           </div>
           <div>
-            <span class="user-name">Coco bou</span>
-            <div class="user-role">Administrateur</div>
+            <span class="user-name">{{ username }}</span>
+            <div class="user-role">{{userRole}}</div>
           </div>
         </div>
       </a>
@@ -23,6 +23,10 @@ import profile from '@/views/dashboard/Profile'
 export default {
   mounted (){
     console.log('LMMMM', this.$route)
+  },
+  props: {
+    username: String,
+    userRole: [String]
   },
   methods: {
       redirectAction () {

@@ -150,14 +150,13 @@
                     <div class="contacts-content">
                       <div class="contacts-info">
                         <h6 class="chat-name text-truncate">
-                          Catherine Richardson
+                          +229 66645622
                         </h6>
-                        <div class="chat-time">Just now</div>
+                        <div class="chat-time">A l'instant</div>
                       </div>
                       <div class="contacts-texts">
                         <p class="text-truncate">
-                          I’m sorry, I didn’t catch that. Could you please
-                          repeat?
+                        Salut!!
                         </p>
                       </div>
                     </div>
@@ -166,7 +165,7 @@
                 <!-- Chat Item End -->
 
                 <!-- Chat Item Start -->
-                <li class="contacts-item groups">
+                <li class="contacts-item groups active">
                   <a
                     class="contacts-link"
                     href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html"
@@ -192,15 +191,14 @@
                         <!-- <img class="injectable" src="./../../assets/media/heroicons/outline/user-group.svg" alt=""> -->
                       </span>
                     </div>
-                    <div class="contacts-content">
+                    <div class="contacts-content active">
                       <div class="contacts-info">
-                        <h6 class="chat-name">Themeforest Group</h6>
-                        <div class="chat-time"><span>10:20 pm</span></div>
+                        <h6 class="chat-name">ChatAll Group</h6>
+                        <div class="chat-time"><span>10:20</span></div>
                       </div>
                       <div class="contacts-texts">
                         <p class="text-truncate">
-                          <span>Jeny: </span>That’s pretty common. I heard that
-                          a lot of people had the same experience.
+                          <span>Cathy: </span>Que nous proposez vous ? 
                         </p>
                         <div class="d-inline-flex align-items-center ml-1">
                           <!-- Default :: Inline SVG -->
@@ -236,13 +234,12 @@
                     </div>
                     <div class="contacts-content">
                       <div class="contacts-info">
-                        <h6 class="chat-name">Eva Walker</h6>
-                        <div class="chat-time">09:36 am</div>
+                        <h6 class="chat-name">Christina</h6>
+                        <div class="chat-time">09:36</div>
                       </div>
                       <div class="contacts-texts">
                         <p class="text-truncate">
-                          You’re kidding! I drive a motorcycle as well. What
-                          type of bike do you have?
+                          Pouvez vous nous livré ?
                         </p>
                         <div class="badge badge-rounded badge-primary ml-1">
                           2
@@ -263,7 +260,7 @@
                     <div class="contacts-content">
                       <div class="contacts-info">
                         <h6 class="chat-name">Christopher Garcia</h6>
-                        <div class="chat-time"><span>Yesterday</span></div>
+                        <div class="chat-time"><span>Hier</span></div>
                       </div>
                       <div class="contacts-texts">
                         <!-- Default :: Inline SVG -->
@@ -299,15 +296,14 @@
                     </div>
                     <div class="contacts-content">
                       <div class="contacts-info">
-                        <h6 class="chat-name">Christina Turner</h6>
+                        <h6 class="chat-name">+22875021589</h6>
                         <div class="chat-time">
                           <span>31/05/20</span>
                         </div>
                       </div>
                       <div class="contacts-texts">
                         <p class="text-truncate">
-                          I’m working hard in Maths, Physics and Chemistry. I
-                          have planning to appear in I.I.T. after XII.
+                          Elles sont a combien ?
                         </p>
                         <div class="badge badge-rounded badge-primary ml-1">
                           10
@@ -329,7 +325,7 @@
                     </div>
                     <div class="contacts-content">
                       <div class="contacts-info">
-                        <h6 class="chat-name">Tammy Martinez</h6>
+                        <h6 class="chat-name">Martinez</h6>
                         <div class="chat-time">
                           <span>24/04/20</span>
                         </div>
@@ -370,7 +366,7 @@
                         <div class="chat-time"><span>20/04/20</span></div>
                       </div>
                       <div class="contacts-texts">
-                        <p class="text-truncate">Catch you later! Bye-bye!</p>
+                        <p class="text-truncate">Merci et à bientôt!</p>
                         <div class="d-inline-flex align-items-center ml-1">
                           <!-- Default :: Inline SVG -->
                           <svg
@@ -422,7 +418,7 @@
 
                         <!-- Alternate :: External File link -->
                         <!-- <img class="injectable hw-16 text-muted" src="./../../assets/media/heroicons/solid/phone-incoming.svg" alt=""> -->
-                        <p class="text-truncate">Missed call</p>
+                        <p class="text-truncate">Appel manqué</p>
                       </div>
                     </div>
                   </a>
@@ -443,7 +439,7 @@
                       </div>
                       <div class="contacts-texts">
                         <p class="text-truncate">
-                          I think I have everything I need, thank you!
+                         J'ai eu ce que je voulais merci bien!
                         </p>
                       </div>
                     </div>
@@ -533,8 +529,8 @@
                     </div>
 
                     <div class="media-body align-self-center">
-                      <h6 class="text-truncate mb-0">Themeforest Group</h6>
-                      <small class="text-muted">252 Participants</small>
+                      <h6 class="text-truncate mb-0">ChatAll Group</h6>
+                      <small class="text-muted">252 Membres</small>
                     </div>
                   </div>
 
@@ -642,7 +638,7 @@
                             </svg>
 
                             <!-- <img src="./../../assets/media/heroicons/outline/information-circle.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>View Info</span>
+                            <span>Informations</span>
                           </a>
 
                           <a
@@ -670,7 +666,7 @@
                               ></path>
                             </svg>
                             <!-- <img src="./../../assets/media/heroicons/outline/volume-off.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>Mute Notifications</span>
+                            <span>Silencieux</span>
                           </a>
                           <a
                             class="dropdown-item align-items-center d-flex"
@@ -690,7 +686,7 @@
                               ></path>
                             </svg>
                             <!-- <img src="./../../assets/media/heroicons/outline/photograph.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>Wallpaper</span>
+                            <span>Fond d'écran</span>
                           </a>
                           <a
                             class="dropdown-item align-items-center d-flex"
@@ -732,7 +728,7 @@
                             </svg>
 
                             <!-- <img src="./../../assets/media/heroicons/outline/trash.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>Delete</span>
+                            <span>Supprimer</span>
                           </a>
                           <a
                             class="
@@ -809,7 +805,7 @@
                               ></path>
                             </svg>
                             <!-- <img src="./../../assets/media/heroicons/outline/phone.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>Call</span>
+                            <span>Appel</span>
                           </a>
                           <a
                             class="dropdown-item align-items-center d-flex"
@@ -832,7 +828,7 @@
                               ></path>
                             </svg>
                             <!-- <img src="./../../assets/media/heroicons/outline/search.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>Search</span>
+                            <span>Rechercher</span>
                           </a>
 
                           <a
@@ -855,7 +851,7 @@
                             </svg>
 
                             <!-- <img src="./../../assets/media/heroicons/outline/information-circle.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>View Info</span>
+                            <span>Paramètres</span>
                           </a>
 
                           <a
@@ -883,7 +879,7 @@
                               ></path>
                             </svg>
                             <!-- <img src="./../../assets/media/heroicons/outline/volume-off.svg" alt="" class="injectable hw-20 mr-2"> -->
-                            <span>Mute Notifications</span>
+                            <span>Silencieux</span>
                           </a>
                           <a
                             class="dropdown-item align-items-center d-flex"
@@ -1035,17 +1031,15 @@
                       <div class="message">
                         <div class="message-wrapper">
                           <div class="message-content">
-                            <h6 class="text-dark">Brittany Williams</h6>
+                            <h6 class="text-dark">Williams</h6>
                             <span
-                              >Wow! Today is October 30th! Halloween is tomorrow
-                              already! Have you decided what you will be
-                              dressing up for Halloween yet, Sara?</span
+                              >Hello</span
                             >
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/1.png"></div> -->
-                          <span class="message-date">9:12am</span>
+                           <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/1.png"></div>
+                          <span class="message-date">9:12</span>
                           <div class="dropdown">
                             <a
                               class="text-muted"
@@ -1204,16 +1198,16 @@
                       <div class="message self">
                         <div class="message-wrapper">
                           <div class="message-content">
-                            I’m not sure what I want to be yet. I want to be
-                            either a butterfly or a pumpkin. But why do we dress
-                            up for Halloween?
+                           Bonjour et bienvenue chez ChatAll! 
+                           Nous vous aidons à optimisé votre clientèle,
+                           Diminue le temps d'attente des clients. 
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/6.png"></div> -->
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/6.png"></div>
 
-                          <span class="message-date">9:12am</span>
-                          <span class="message-status">Edited</span>
+                          <span class="message-date">9:12</span>
+                          <span class="message-status">Modifier</span>
 
                           <div class="dropdown">
                             <a
@@ -1396,19 +1390,15 @@
                       <div class="message">
                         <div class="message-wrapper">
                           <div class="message-content">
-                            <h6 class="text-dark">Jacqueline James</h6>
+                            <h6 class="text-dark">Cathy</h6>
                             <span
-                              >Halloween is a festival for children, and
-                              costumes make it more special. I think we have
-                              much more fun going from house to house asking for
-                              candies (trick-or-treating) after sunset dressed
-                              in our favourite costumes.</span
+                              >Que nous proposez vous ?.</span
                             >
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/7.png"></div> -->
-                          <span class="message-date">9:12am</span>
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/7.png"></div>
+                          <span class="message-date">9:12</span>
                           <div class="dropdown">
                             <a
                               class="text-muted"
@@ -1576,7 +1566,7 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/2.png"></div> -->
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/2.png"></div>
                           <span class="message-date">9:12am</span>
                           <div class="dropdown">
                             <a
@@ -1744,7 +1734,7 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/6.png"></div> -->
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/6.png"></div>
 
                           <span class="message-date">9:12am</span>
 
@@ -1939,7 +1929,7 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/5.png"></div> -->
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/5.png"></div>
                           <span class="message-date">9:12am</span>
                           <div class="dropdown">
                             <a
@@ -2120,7 +2110,7 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/6.png"></div> -->
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/6.png"></div>
 
                           <span class="message-date">9:12am</span>
                           <span class="message-status">Edited</span>
@@ -2311,7 +2301,7 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/4.png"></div> -->
+                          <div class="avatar avatar-sm"><img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/4.png"></div>
                           <span class="message-date">9:12am</span>
                           <div class="dropdown">
                             <a
@@ -2479,7 +2469,9 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/6.png"></div> -->
+                          <div class="avatar avatar-sm">
+                              <img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/6.png">
+                              </div>
 
                           <span class="message-date">9:12am</span>
 
@@ -2673,7 +2665,9 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/3.png"></div> -->
+                          <div class="avatar avatar-sm">
+                              <img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/3.png">
+                              </div>
                           <span class="message-date">9:12am</span>
                           <div class="dropdown">
                             <a
@@ -2842,7 +2836,9 @@
                           </div>
                         </div>
                         <div class="message-options">
-                          <!-- <div class="avatar avatar-sm"><img alt="" src="./Quicky - HTML Chat Template_files/6.png"></div> -->
+                          <div class="avatar avatar-sm">
+                              <img alt="" src="../../styles/theme/Quicky - HTML Chat Template_files/6.png">
+                              </div>
 
                           <span class="message-date">9:12am</span>
 
@@ -3030,198 +3026,104 @@
                   <div class="chat-finished" id="chat-finished"></div>
                 </div>
                 <!-- Chat Content End-->
+ <div class="chat-footer">
+                        <div class="attachment d-none">
+                            <div class="dropdown">
+                                <button class="btn btn-secondary btn-icon btn-minimal btn-sm" type="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <svg class="hw-20" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                    </svg>
 
-                <!-- Chat Footer Start-->
-                <div class="chat-footer">
-                  <div class="attachment">
-                    <div class="dropdown">
-                      <button
-                        class="btn btn-secondary btn-icon btn-minimal btn-sm"
-                        type="button"
-                        data-toggle="dropdown"
-                        aria-haspopup="true"
-                        aria-expanded="false"
-                      >
-                        <svg
-                          class="hw-20"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          stroke="currentColor"
-                        >
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            stroke-width="2"
-                            d="M12 9v3m0 0v3m0-3h3m-3 0H9m12 0a9 9 0 11-18 0 9 9 0 0118 0z"
-                          ></path>
-                        </svg>
+                                    <!-- <img class="injectable hw-20" src="./../../assets/media/heroicons/outline/plus-circle.svg" alt=""> -->
+                                </button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item"
+                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#">
+                                        <svg class="hw-20 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+                                            </path>
+                                        </svg>
+                                        <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/photograph.svg" alt=""> -->
+                                        <span>Gallery</span>
+                                    </a>
+                                    <a class="dropdown-item"
+                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#">
+                                        <svg class="hw-20 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z">
+                                            </path>
+                                        </svg>
 
-                        <!-- <img class="injectable hw-20" src="./../../assets/media/heroicons/outline/plus-circle.svg" alt=""> -->
-                      </button>
-                      <div class="dropdown-menu">
-                        <a
-                          class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
-                        >
-                          <svg
-                            class="hw-20 mr-2"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-                            ></path>
-                          </svg>
-                          <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/photograph.svg" alt=""> -->
-                          <span>Gallery</span>
-                        </a>
-                        <a
-                          class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
-                        >
-                          <svg
-                            class="hw-20 mr-2"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"
-                            ></path>
-                          </svg>
+                                        <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/volume-up.svg" alt=""> -->
+                                        <span>Audio</span>
+                                    </a>
+                                    <a class="dropdown-item"
+                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#">
+                                        <svg class="hw-20 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z">
+                                            </path>
+                                        </svg>
 
-                          <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/volume-up.svg" alt=""> -->
-                          <span>Audio</span>
-                        </a>
-                        <a
-                          class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
-                        >
-                          <svg
-                            class="hw-20 mr-2"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"
-                            ></path>
-                          </svg>
+                                        <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/document.svg" alt=""> -->
+                                        <span>Document</span>
+                                    </a>
+                                    <a class="dropdown-item"
+                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#">
+                                        <svg class="hw-20 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z">
+                                            </path>
+                                        </svg>
 
-                          <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/document.svg" alt=""> -->
-                          <span>Document</span>
-                        </a>
-                        <a
-                          class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
-                        >
-                          <svg
-                            class="hw-20 mr-2"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
-                            ></path>
-                          </svg>
+                                        <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/user.svg" alt=""> -->
+                                        <span>Contact</span>
+                                    </a>
+                                    <a class="dropdown-item"
+                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#">
+                                        <svg class="hw-20 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z">
+                                            </path>
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
+                                        </svg>
 
-                          <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/user.svg" alt=""> -->
-                          <span>Contact</span>
-                        </a>
-                        <a
-                          class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
-                        >
-                          <svg
-                            class="hw-20 mr-2"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-                            ></path>
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-                            ></path>
-                          </svg>
+                                        <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/location-marker.svg" alt=""> -->
+                                        <span>Location</span>
+                                    </a>
+                                    <a class="dropdown-item"
+                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#">
+                                        <svg class="hw-20 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                                d="M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z">
+                                            </path>
+                                        </svg>
 
-                          <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/location-marker.svg" alt=""> -->
-                          <span>Location</span>
-                        </a>
-                        <a
-                          class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
-                        >
-                          <svg
-                            class="hw-20 mr-2"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              stroke-linecap="round"
-                              stroke-linejoin="round"
-                              stroke-width="2"
-                              d="M16 8v8m-4-5v5m-4-2v2m-2 4h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-                            ></path>
-                          </svg>
+                                        <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/chart-square-bar.svg" alt=""> -->
+                                        <span>Poll</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
 
-                          <!-- <img class="injectable hw-20 mr-2" src="./../../assets/media/heroicons/outline/chart-square-bar.svg" alt=""> -->
-                          <span>Poll</span>
-                        </a>
-                      </div>
+                        <textarea class="form-control emojionearea-form-control" id="messageInput" rows="1"
+                            placeholder="Entrez votre message..." ></textarea>
+                       
+                        <div class="btn btn-primary btn-icon send-icon rounded-circle text-light mb-1" role="button">
+                            <svg class="hw-24" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                            </svg>
+
+                            <!-- <img src="./../../assets/media/heroicons/outline/arrow-right.svg" alt="" class="injectable"> -->
+                        </div>
                     </div>
-                  </div>
-
-                  <div
-                    class="
-                      btn btn-primary btn-icon
-                      send-icon
-                      rounded-circle
-                      text-light
-                      mb-1
-                    "
-                    role="button"
-                  >
-                    <svg
-                      class="hw-24"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                    >
-                      <path
-                        stroke-linecap="round"
-                        stroke-linejoin="round"
-                        stroke-width="2"
-                        d="M14 5l7 7m0 0l-7 7m7-7H3"
-                      ></path>
-                    </svg>
-
-                    <!-- <img src="./../../assets/media/heroicons/outline/arrow-right.svg" alt="" class="injectable"> -->
-                  </div>
-                </div>
-                <!-- Chat Footer End-->
+               
+               
               </div>
               <!-- Chat Body End -->
 
@@ -3404,21 +3306,21 @@
                               <a
                                 href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
                               >
-                                <!-- <img src="./Quicky - HTML Chat Template_files/01.jpg" class="img-fluid rounded border" alt=""> -->
+                                <!-- <img src="/@/01.jpg" class="img-fluid rounded border" alt=""> -->
                               </a>
                             </div>
                             <div class="col-4 col-md-2 col-xl-4">
                               <a
                                 href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
                               >
-                                <!-- <img src="./Quicky - HTML Chat Template_files/02.jpg" class="img-fluid rounded border" alt=""> -->
+                                 <!-- <img src="/@/02.jpg" class="img-fluid rounded border" alt="">  -->
                               </a>
                             </div>
                             <div class="col-4 col-md-2 col-xl-4">
                               <a
                                 href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
                               >
-                                <!-- <img src="./Quicky - HTML Chat Template_files/03.jpg" class="img-fluid rounded border" alt=""> -->
+                                <!-- <img src="/@/03.jpg" class="img-fluid rounded border" alt="">  -->
                               </a>
                             </div>
                           </div>
@@ -3812,13 +3714,10 @@
     </main>
   </div>
 </template>
-<script>
-</script>
-
-
-<style scoped>
-#chats-header {
-  background: #343a40;
-  color: white;
+<style lang="scss" scoped>
+.chat-body .chat-footer {
+  position: fixed;
+    bottom: 0;
+    width: calc(100% - 37%);
 }
 </style>
