@@ -98,7 +98,12 @@
 
                       <div class="card-footer d-flex justify-content-end">
                         <button type="submit" class="btn btn-primary">
-                          Sauvegarder
+                           <span
+                      v-if="on_loading_info == true"
+                      class="spinner-border"
+                      role="status"
+                    ></span>
+                          <span v-else>Sauvegarder</span>
                         </button>
                       </div>
                     </form>
@@ -163,7 +168,13 @@
 
                       <div class="card-footer d-flex justify-content-end">
                         <button type="submit" class="btn btn-primary">
-                          Enrégistrer
+                           <span
+                      v-if="on_loading_password == true"
+                      class="spinner-border"
+                      role="status"
+                    ></span>
+                    <span v-else>Enrégistrer</span>
+                          
                         </button>
                       </div>
                     </form>
@@ -199,9 +210,12 @@ export default {
         new_password: "",
         confirm_password: "",
       },
+      on_loading_info: false,
+      on_loading_password: false
     };
   },
   async mounted() {
+    
     const user_id = client.getCookies("yinwe");
     console.log("...?", this.$store.state.user_infos);
     if (_.isEmpty(this.$store.state.user_infos)) {
@@ -229,6 +243,7 @@ export default {
   },
   methods: {
     async submit_update() {
+       this.on_loading_info = true;
       const user_id = client.getCookies("yinwe");
 
       await services
@@ -241,12 +256,14 @@ export default {
           sexe: this.genarals_infos.sexe,
         })
         .then((res) => {
+           this.on_loading_info = false;
           if (_.isUndefined(res.data.error)) {
             this.$store.state.user_infos = res.data.data;
           }
         });
     },
     async submit_password() {
+       this.on_loading_password = true;
       const user_id = client.getCookies("yinwe");
 
       await services
@@ -257,6 +274,7 @@ export default {
           confirm_password: this.password_infos.confirm_password,
         })
         .then((res) => {
+           this.on_loading_password = false;
           console.log("ressponse password", res);
         });
     },

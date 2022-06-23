@@ -5,7 +5,20 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    user_infos: {}
+    user_infos: {},
+    current_message: {},
+    current_conversation: {
+      messages: [],
+      client: {
+        phone: ''
+      }
+    },
+    messages: [
+
+    ],
+    conversations: [
+
+    ]
   },
   getters: {
   },

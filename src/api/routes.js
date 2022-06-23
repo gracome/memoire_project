@@ -9,3 +9,7 @@ export const ADD_USER = '/users/add'
 export const USERS_LISTE = '/users/all'
 export const UPDATE_PROFILE = `/users/profileupdate`
 export const CHANGE_PASSWORD = `/users/change_password`
+export const UPDATE_USER = `/users/update`
+export const DELETE_USER = `/users/delete`
+export const CONVERSATION_LISTES = `/conversations/all`
+export const ALL_MESSAGES = `/messages/all`
