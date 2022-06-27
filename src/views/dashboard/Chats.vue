@@ -17,7 +17,7 @@
                     <li class="nav-item list-inline-item mr-1">
                       <a
                         class="nav-link text-muted px-1"
-                        href="http://prismthemes.com/quicky/ltr/light-skin/index.html#"
+                        href="#"
                         title="Notifications"
                         role="button"
                         data-toggle="modal"
@@ -48,7 +48,7 @@
                     >
                       <a
                         class="nav-link text-muted px-1"
-                        href="http://prismthemes.com/quicky/ltr/light-skin/index.html#"
+                        href="#"
                         title="Appbar"
                         data-toggle-appbar=""
                       >
@@ -76,7 +76,7 @@
                       <div class="dropdown">
                         <a
                           class="nav-link text-muted px-1"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/index.html#"
+                          href="#"
                           role="button"
                           title="Details"
                           data-toggle="dropdown"
@@ -105,7 +105,7 @@
                         <div class="dropdown-menu dropdown-menu-right">
                           <a
                             class="dropdown-item"
-                            href="http://prismthemes.com/quicky/ltr/light-skin/index.html#"
+                            href="#"
                             role="button"
                             data-toggle="modal"
                             data-target="#startConversation"
@@ -113,7 +113,7 @@
                           >
                           <a
                             class="dropdown-item"
-                            href="http://prismthemes.com/quicky/ltr/light-skin/index.html#"
+                            href="#"
                             role="button"
                             data-toggle="modal"
                             data-target="#createGroup"
@@ -121,7 +121,7 @@
                           >
                           <a
                             class="dropdown-item"
-                            href="http://prismthemes.com/quicky/ltr/light-skin/index.html#"
+                            href="#"
                             role="button"
                             data-toggle="modal"
                             data-target="#inviteOthers"
@@ -341,7 +341,7 @@
                       <div class="dropdown-menu">
                         <a
                           class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                          href="#"
                         >
                           <svg
                             class="hw-20 mr-2"
@@ -361,7 +361,7 @@
                         </a>
                         <a
                           class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                          href="#"
                         >
                           <svg
                             class="hw-20 mr-2"
@@ -382,7 +382,7 @@
                         </a>
                         <a
                           class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                          href="#"
                         >
                           <svg
                             class="hw-20 mr-2"
@@ -403,7 +403,7 @@
                         </a>
                         <a
                           class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                          href="#"
                         >
                           <svg
                             class="hw-20 mr-2"
@@ -424,7 +424,7 @@
                         </a>
                         <a
                           class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                          href="#"
                         >
                           <svg
                             class="hw-20 mr-2"
@@ -451,7 +451,7 @@
                         </a>
                         <a
                           class="dropdown-item"
-                          href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                          href="#"
                         >
                           <svg
                             class="hw-20 mr-2"
@@ -534,7 +534,7 @@
                         <li class="nav-item list-inline-item">
                           <a
                             class="nav-link text-muted px-0"
-                            href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                            href="#"
                             data-chat-info-close=""
                           >
                             <svg
@@ -627,7 +627,7 @@
                       <a
                         class="chat-info-group-header"
                         data-toggle="collapse"
-                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#participants-list"
+                        href="#"
                         role="button"
                         aria-expanded="true"
                         aria-controls="participants-list"
@@ -657,7 +657,7 @@
                       <a
                         class="chat-info-group-header"
                         data-toggle="collapse"
-                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#shared-media"
+                        href="#"
                         role="button"
                         aria-expanded="true"
                         aria-controls="shared-media"
@@ -692,21 +692,21 @@
                           <div class="form-row">
                             <div class="col-4 col-md-2 col-xl-4">
                               <a
-                                href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                href="#"
                               >
                                 <!-- <img src="/@/01.jpg" class="img-fluid rounded border" alt=""> -->
                               </a>
                             </div>
                             <div class="col-4 col-md-2 col-xl-4">
                               <a
-                                href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                href="#"
                               >
                                 <!-- <img src="/@/02.jpg" class="img-fluid rounded border" alt="">  -->
                               </a>
                             </div>
                             <div class="col-4 col-md-2 col-xl-4">
                               <a
-                                href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                href="#"
                               >
                                 <!-- <img src="/@/03.jpg" class="img-fluid rounded border" alt="">  -->
                               </a>
@@ -722,7 +722,7 @@
                       <a
                         class="chat-info-group-header"
                         data-toggle="collapse"
-                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#shared-files"
+                        href="#"
                         role="button"
                         aria-expanded="true"
                         aria-controls="shared-files"
@@ -789,7 +789,7 @@
                                 <div class="document-body">
                                   <h6 class="text-truncate">
                                     <a
-                                      href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                      href="#"
                                       class="text-reset"
                                       title="effects-of-global-warming.docs"
                                       >Effects-of-global-warming.docs</a
@@ -845,17 +845,17 @@
                                     <div class="dropdown-menu">
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Download</a
                                       >
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Share</a
                                       >
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Delete</a
                                       >
                                     </div>
@@ -898,7 +898,7 @@
                                 <div class="document-body">
                                   <h6 class="text-truncate">
                                     <a
-                                      href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                      href="#"
                                       class="text-reset"
                                       title="global-warming-data-2020.xlxs"
                                       >Global-warming-data-2020.xlxs</a
@@ -954,17 +954,17 @@
                                     <div class="dropdown-menu">
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >View</a
                                       >
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Share</a
                                       >
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Delete</a
                                       >
                                     </div>
@@ -1007,7 +1007,7 @@
                                 <div class="document-body">
                                   <h6 class="text-truncate">
                                     <a
-                                      href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                      href="#"
                                       class="text-reset"
                                       title="great-presentation-on global-warming-2020.ppt"
                                       >Great-presentation-on
@@ -1064,17 +1064,17 @@
                                     <div class="dropdown-menu">
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Download</a
                                       >
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Share</a
                                       >
                                       <a
                                         class="dropdown-item"
-                                        href="http://prismthemes.com/quicky/ltr/light-skin/chat-2.html#"
+                                        href="#"
                                         >Delete</a
                                       >
                                     </div>

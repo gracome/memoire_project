@@ -29,6 +29,7 @@
                     type="password"
                     class="form-control form-control-md"
                     id="password"
+                     pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Doit contenir au moins un chiffre et une lettre majuscule et minuscule, et au moins 8 caractères ou plus"
                     v-model="form.password"
                   />
                   <span class="error-text">{{ errors[0] }}</span>

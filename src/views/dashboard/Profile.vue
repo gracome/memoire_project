@@ -111,7 +111,8 @@
                 </div>
                 <div class="col-12 col-md-6">
                   <div class="card mb-3">
-                    <form @submit.prevent="submit_password">
+                     <ValidationObserver v-slot="{ handleSubmit }">
+                    <form @submit.prevent="handleSubmit(submit_password)" >
                       <div class="card-header">
                         <h5 class="mb-1">Changement de mot de passe</h5>
                       </div>
@@ -119,6 +120,7 @@
                       <div class="card-body">
                         <div class="row">
                           <div class="col-12">
+                             <validation-provider rules="required" v-slot="{ errors }">
                             <div class="form-group">
                               <label for="current-password"
                                 >Mot de passe actuel</label
@@ -128,13 +130,17 @@
                                 class="form-control form-control-md"
                                 id="current-password"
                                 autocomplete="on"
+                                
                                 v-model="password_infos.old_password"
                               />
+                               <span class="error-text">{{ errors[0] }}</span>
                             </div>
+                               </validation-provider>
                           </div>
                         </div>
                         <div class="row">
                           <div class="col-md-6 col-12">
+                            <validation-provider rules="required" v-slot="{ errors}">
                             <div class="form-group">
                               <label for="new-password"
                                 >Nouveau mot de passe</label
@@ -144,11 +150,15 @@
                                 class="form-control form-control-md"
                                 id="new-password"
                                 autocomplete="off"
+                                pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Doit contenir au moins un chiffre et une lettre majuscule et minuscule, et au moins 8 caractères ou plus"
                                 v-model="password_infos.new_password"
                               />
+                               <span class="error-text">{{ errors[0] }}</span>
                             </div>
+                               </validation-provider>
                           </div>
                           <div class="col-md-6 col-12">
+                             <validation-provider rules="required" v-slot="{ errors}">
                             <div class="form-group">
                               <label for="repeat-password"
                                 >Confirmez le mot de passe</label
@@ -160,8 +170,11 @@
                                 placeholder=""
                                 autocomplete="off"
                                 v-model="password_infos.confirm_password"
+                                pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Doit contenir au moins un chiffre et une lettre majuscule et minuscule, et au moins 8 caractères ou plus"
                               />
+                               <span class="error-text">{{ errors[0] }}</span>
                             </div>
+                               </validation-provider>
                           </div>
                         </div>
                       </div>
@@ -178,6 +191,7 @@
                         </button>
                       </div>
                     </form>
+                     </ValidationObserver>
                   </div>
                 </div>
               </div>
@@ -192,9 +206,16 @@
 </template>
 
 <script>
+import { extend } from "vee-validate";
+import { required } from "vee-validate/dist/rules";
 import { services, client } from "@/api";
 import { userProfile } from "@/api/services";
 import _ from "lodash";
+
+extend("required", {
+  ...required,
+  message: "Champ obligatoire",
+});
 export default {
   data() {
     return {
